@@ -15,4 +15,4 @@ Para mi la cultura de un profecional del software se basa en lo siguiente:
 - Honestidad
 - Trabajo en equipo
 - Dedicación
-- *Resiliencia*
+- **Resiliencia**
