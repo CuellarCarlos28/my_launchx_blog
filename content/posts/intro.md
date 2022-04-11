@@ -8,7 +8,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 Para mi la cultura de un profecional del software se basa en lo siguiente:
 
-- Cominucación
+- Comunicación
 - Respeto
 - Confianza
 - Comprimiso
