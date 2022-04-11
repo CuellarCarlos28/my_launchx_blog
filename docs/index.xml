@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://cuellarcarlos28.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cuellarcarlos28.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://cuellarcarlos28.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuellarcarlos28.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola! ✌🏼
+Quisiera contarte lo que he aprendido a utilizar a lo largo de esta ruta de aprendizaje en las diferentes misiones.
+ 📌 Python 📌 Jupiter Notebook 📌 GitHub 📌 Lógica de programación 📌 Visual Studio Code 📌 WireFrames 📌 Creación de logos 📌 HTML 📌 Versionar proyectos 📌 Node Js  </description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desallorad@r de software</title>
       <link>https://cuellarcarlos28.github.io/my_launchx_blog/posts/intro/</link>
